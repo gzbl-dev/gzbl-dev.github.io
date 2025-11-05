@@ -17,7 +17,6 @@
 #     - tag: Rails
 #   timeline-side: right
 
-# ----------------- EDUCATION (LEFT SIDE) -----------------
 
 - title: UCAM
   title-url: "#"
@@ -31,7 +30,7 @@
   subtitle: Professional Scholarship Player
   timeline-side: right
 
-  - title: GGTech Entertainment
+- title: GGTech Entertainment
   title-url: "#"
   date: 2024
   subtitle: Event Staff
@@ -54,8 +53,6 @@
   date: 2018 - 2020
   subtitle: Electrical and Automatic Installations
   timeline-side: left
-
-# ----------------- EXPERIENCE (RIGHT SIDE) -----------------
 
 
 
