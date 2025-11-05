@@ -1,15 +1,25 @@
 
 - name: Fantasy Lol
-  description: "A desktop application developed in Java (Swing) with MySQL as its database, allowing you to manage a fantasy league inspired by the European League of Legends competition (LEC)." 
+  descr: "A desktop application developed in Java (Swing) with MySQL as its database, allowing you to manage a fantasy league inspired by the European League of Legends competition (LEC)." 
   demo: "soon"
   url: https://github.com/gzbl-dev/Proyectos/tree/main/Fantasy_lol
+  tags:
+    - tag: Java 17+
+    - tag: Swing
+    - tag: MySQL 8.0+
+    - tag: JDBC
 
 - name: Basic CSS and Flexbox Layout
-  description: "This project is for the Web Interface Design course. It implements a complete signup and login system using HTML, CSS, JavaScript, and Firebase (Authentication and Firestore)."
+  descr: "This project is for the Web Interface Design course. It implements a complete signup and login system using HTML, CSS, JavaScript, and Firebase (Authentication and Firestore)."
   demo: "soon"
   url: https://github.com/gzbl-dev/Proyectos/tree/main/Maquetaci%C3%B3n%20B%C3%A1sica%20CSS%20y%20Flexbox
+  tags:
+    - tag: HTML5
+    - tag: CSS3
+    - tag: JavaScript
+    - tag: Firebase
 
 - name: Refactoring Project
-  description: "This project consists of the refactoring and documentation of an employee management system in Java, following good practices of encapsulation, separation of responsibilities and JavaDoc documentation."
+  descr: "This project consists of the refactoring and documentation of an employee management system in Java, following good practices of encapsulation, separation of responsibilities and JavaDoc documentation."
   demo: "soon"
   url: https://github.com/gzbl-dev/Proyectos/tree/main/Proyecto%20refactorizacion
