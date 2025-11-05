@@ -25,11 +25,29 @@
   subtitle: Web Application Development
   timeline-side: left
 
+- title: UCAM Esports
+  title-url: "#"
+  date: 2023 - Present
+  subtitle: Professional Scholarship Player
+  timeline-side: right
+
+  - title: GGTech Entertainment
+  title-url: "#"
+  date: 2024
+  subtitle: Event Staff
+  timeline-side: right
+
 - title: Amusal
   title-url: "#"
   date: 2021 - 2023
   subtitle: Administration and Finance
   timeline-side: left
+
+- title: Kronohealth
+  title-url: "#"
+  date: 2023
+  subtitle: Administrative Assistant
+  timeline-side: right
 
 - title: Severo Ochoa
   title-url: "#"
@@ -39,20 +57,6 @@
 
 # ----------------- EXPERIENCE (RIGHT SIDE) -----------------
 
-- title: UCAM Esports
-  title-url: "#"
-  date: 2023 - Present
-  subtitle: Professional Scholarship Player
-  timeline-side: right
 
-- title: GGTech Entertainment
-  title-url: "#"
-  date: 2024
-  subtitle: Event Staff
-  timeline-side: right
 
-- title: Kronohealth
-  title-url: "#"
-  date: 2023
-  subtitle: Administrative Assistant
-  timeline-side: right
+
