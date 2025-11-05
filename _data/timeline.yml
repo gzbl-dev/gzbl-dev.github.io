@@ -17,45 +17,42 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
+# ----------------- EDUCATION (LEFT SIDE) -----------------
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: UCAM
+  title-url: "#"
+  date: 2024 - Present
+  subtitle: Web Application Development
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Amusal
+  title-url: "#"
+  date: 2021 - 2023
+  subtitle: Administration and Finance
+  timeline-side: left
+
+- title: Severo Ochoa
+  title-url: "#"
+  date: 2018 - 2020
+  subtitle: Electrical and Automatic Installations
+  timeline-side: left
+
+# ----------------- EXPERIENCE (RIGHT SIDE) -----------------
+
+- title: UCAM Esports
+  title-url: "#"
+  date: 2023 - Present
+  subtitle: Professional Scholarship Player
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+- title: GGTech Entertainment
+  title-url: "#"
+  date: 2024
+  subtitle: Event Staff
+  timeline-side: right
+
+- title: Kronohealth
+  title-url: "#"
+  date: 2023
+  subtitle: Administrative Assistant
+  timeline-side: right
