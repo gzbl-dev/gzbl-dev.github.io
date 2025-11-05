@@ -37,13 +37,13 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: |
-  👋 Hi, my name is Gonzalo Bernal and I'm from Spain.
+  <p> 👋 Hi, my name is Gonzalo Bernal and I'm from Spain. </p>
   
-  🧑‍💻 I'm a Web developer and a Cybersecurity enthusiast.
+  <p> 🧑‍💻 I'm a Web developer and a Cybersecurity enthusiast. </p>
   
-  💻 I like checking out open source projects and sharing my own code on Github.
+  <p> 💻 I like checking out open source projects and sharing my own code on Github. </p>
   
-  🤖 Check out my ethical hacking repository <a href="URL_AQUI">en este enlace</a>.
+  <p> 🤖 Check out my ethical hacking repository <a href="https://github.com/gzbl-dev/security-research/tree/main"></a> </p>.
 
 # SKILLS SECTION
 # show_skills_card:
